@@ -1,2 +1,0 @@
-# Flapygame
-A fun game :)
